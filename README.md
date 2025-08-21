@@ -9,3 +9,4 @@
 - [Day-10 Practice](../../tree/Day-10): Tenth day practice
 - [Day-11 Practice](../../tree/Day-11): Eleventh day practice
 - [Constructor Practice](../../tree/constructor)
+- [ Mini Projects](../../tree/Mini_Projects)

@@ -1,0 +1,32 @@
+File1
+aaa
+bbb
+ccc
+
+File 2
+666
+777
+888
+
+File 3
+
+aaa
+bbb
+ccc
+666
+777
+888
+
+File 4 
+aaa
+666
+bbb
+777
+ccc
+888
+
+File 5
+
+555666777555444333777999
+
+Remove duplicates from file 5 and create a new file with unique values
